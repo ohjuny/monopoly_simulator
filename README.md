@@ -10,6 +10,9 @@ on each property, how many times you went to jail, and even draw you a Monopoly 
 containing the number of times you have landed on each property (make sure that your
 terminal is wide enough to show each row of the board in a seperate line).
 
+*The color scheme of the baord in this program is based off this image:
+http://img.thesun.co.uk/aidemitlum/archive/01771/Monopoly2_1771742a.jpg
+
 In the future, if I have the time, these are some improvements that I would like to make:
 
 1. Add a monetary value to each property and a balance to the player to see how much money
